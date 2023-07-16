@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi their...! 👋, I'm Rohit </h1>
+[![logo](https://github.com/rohi241998/rohit241998/blob/main/personal%20banner.jpg)
+<h1 align="center">Hi 👋, I'm Rohit </h1>
 <h3 align="center">From Lines of Code to Collaborative Insights</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
